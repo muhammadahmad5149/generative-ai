@@ -7,7 +7,7 @@ pipe = StableDiffusionPipeline.from_pretrained(model_name, torch_dtype=torch.flo
 pipe = pipe.to("cpu")  # Move the pipeline to GPU for faster generation
 
 # Prompt for image generation
-prompt = "A dense forest at sunrise, ultra-realistic, high detail"
+prompt = "A single female student image"
 
 # Generate the image
 image = pipe(prompt).images[0]

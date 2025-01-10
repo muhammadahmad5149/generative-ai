@@ -51,10 +51,10 @@
             alert("Please enter some valid text to translate!");
             return;
           }
-          if (text.length > 1000) {
-            alert("Text is too long. Please limit to 1000 characters.");
-            return;
-          }
+          // if (text.length > 1000) {
+          //   alert("Text is too long. Please limit to 1000 characters.");
+          //   return;
+          // }
 
           try {
             const response = await fetch("/translate", {
