@@ -1,0 +1,24 @@
+# Core LangChain
+langchain
+langchain-core
+langchain-community
+
+# Ollama Integration
+# langchain-ollama
+langchain-ollama
+ollama
+
+# Vector Store & Indexing
+chromadb
+langchain-chroma
+
+# Text Processing
+langchain-text-splitters
+
+# File System Monitoring
+watchdog
+
+# FastAPI
+fastapi
+uvicorn
+pydantic
