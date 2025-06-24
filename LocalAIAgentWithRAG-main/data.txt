@@ -1,0 +1,314 @@
+1. What is accounting?
+Accounting is the systematic process of recording, summarizing, and analyzing financial transactions. It ensures a business keeps track of its income and expenses and complies with financial regulations. It helps in preparing statements like the balance sheet and income statement.
+
+2. What is the purpose of accounting?
+The primary purpose of accounting is to provide financial information that assists stakeholders in making informed decisions. It also ensures transparency and accuracy in a company’s financial operations and helps evaluate performance.
+
+3. What are the branches of accounting?
+The major branches include Financial Accounting, Managerial Accounting, Cost Accounting, Tax Accounting, and Auditing. Each serves a specific role, such as external reporting, internal decision-making, cost control, tax compliance, and verification of records.
+
+4. What is financial accounting?
+Financial accounting focuses on preparing financial statements for external users like investors, regulators, and creditors. It follows standardized rules such as GAAP or IFRS to ensure transparency and comparability.
+
+5. What is managerial accounting?
+Managerial accounting involves preparing internal reports to aid management in decision-making. It includes budgeting, forecasting, and performance evaluations to help in strategic planning and operational control.
+
+6. What is cost accounting?
+Cost accounting measures and analyzes the cost of production. It helps businesses control expenses, set prices, and improve efficiency by tracking direct and indirect costs of manufacturing.
+
+7. What is a journal?
+A journal is a chronological record of all financial transactions. Each entry records the accounts affected, the amounts, and whether they are debited or credited, forming the foundation of the accounting system.
+
+8. What is a ledger?
+A ledger is a book or digital record where all journal entries are posted to individual accounts. It helps track the balance of each account and prepares data for the trial balance and financial statements.
+
+9. What is a trial balance?
+A trial balance lists all the ledger account balances at a specific point in time. It is used to verify the arithmetic accuracy of bookkeeping and ensures that total debits equal total credits.
+
+10. What is a balance sheet?
+A balance sheet is a financial statement that presents a company’s assets, liabilities, and equity as of a specific date. It shows the financial position and helps assess liquidity and solvency.
+
+11. What is an income statement?
+An income statement, or profit and loss statement, shows a company’s revenues and expenses over a period. It reveals the net profit or loss and is crucial for assessing profitability.
+
+12. What is the cash flow statement?
+The cash flow statement reports the inflow and outflow of cash from operating, investing, and financing activities. It helps stakeholders understand a company’s cash position and liquidity.
+
+13. What is the accounting equation?
+The basic accounting equation is: Assets = Liabilities + Equity. It forms the foundation of double-entry accounting and ensures the balance in financial records.
+
+14. What is double-entry accounting?
+Double-entry accounting means every transaction affects at least two accounts, with equal debits and credits. This system helps maintain accurate records and detect errors easily.
+
+15. What are assets?
+Assets are resources owned by a business that have economic value, such as cash, inventory, buildings, or equipment. They are used to generate income and support operations.
+
+16. What are liabilities?
+Liabilities are obligations the business owes to others, such as loans, accounts payable, or taxes. They represent claims against the company's assets by creditors.
+
+17. What is equity?
+Equity represents the owner's interest in the business, calculated as assets minus liabilities. It includes capital invested and retained earnings, reflecting the net worth of the company.
+
+18. What is revenue?
+Revenue is the income earned from the core business activities, like sales or services rendered. It is the starting point for evaluating a company’s performance.
+
+19. What are expenses?
+Expenses are the costs incurred to generate revenue, such as salaries, rent, utilities, and materials. They reduce net income and are matched against revenues in the income statement.
+
+20. What is depreciation?
+Depreciation is the gradual reduction in the value of a tangible asset due to wear and tear or obsolescence. It spreads the cost of an asset over its useful life.
+
+21. What is accrual accounting?
+Accrual accounting records income and expenses when they are earned or incurred, not when cash changes hands. It provides a more accurate picture of financial performance.
+
+22. What is cash accounting?
+In cash accounting, transactions are recorded only when cash is received or paid. It is simpler but may not reflect the true financial state over time.
+
+23. What is goodwill?
+Goodwill is an intangible asset that arises when one company acquires another for more than the fair value of its net assets. It reflects brand value, customer loyalty, and reputation.
+
+24. What are prepaid expenses?
+Prepaid expenses are payments made for goods or services to be received in future periods. They are initially recorded as assets and expensed when used.
+
+25. What are outstanding expenses?
+Outstanding expenses are costs that have been incurred but not yet paid. They are recorded as liabilities because payment is due in the future.
+
+26. What is working capital?
+Working capital is the difference between current assets and current liabilities. It measures a company’s short-term financial health and liquidity.
+
+27. What is the difference between gross profit and net profit?
+Gross profit is revenue minus the cost of goods sold. Net profit is what's left after subtracting all operating expenses, taxes, and interest from gross profit.
+
+28. What is the matching principle?
+The matching principle requires that expenses be recognized in the same period as the revenues they help generate. It ensures accurate profit reporting.
+
+29. What is a fiscal year?
+A fiscal year is a 12-month period used for accounting purposes, which may differ from the calendar year. It is chosen to align with business cycles.
+
+30. What is inventory?
+Inventory includes raw materials, work-in-progress, and finished goods held for sale. It is considered a current asset and affects cost of goods sold.
+
+31. What is accounts receivable?
+Accounts receivable is money owed by customers for goods or services delivered on credit. It is recorded as a current asset on the balance sheet.
+
+32. What is accounts payable?
+Accounts payable is the amount a business owes to suppliers for goods or services received. It is recorded as a current liability.
+
+33. What is a general ledger?
+A general ledger is the complete record of all financial transactions across all accounts. It is the central source of financial data for reporting.
+
+34. What is a chart of accounts?
+A chart of accounts is a structured list of all the accounts used by a business. It categorizes transactions and helps in organizing financial information.
+
+35. What is the role of an auditor?
+An auditor reviews financial records to ensure accuracy and compliance with accounting standards. They provide assurance to stakeholders that the statements are free of material misstatements.
+
+36. What are capital expenditures?
+Capital expenditures are funds used to acquire or upgrade long-term assets like property, equipment, or machinery. These are not expensed immediately but capitalized and depreciated over time.
+
+37. What are operating expenses?
+Operating expenses are the day-to-day costs of running a business, such as salaries, rent, and utilities. They are deducted from revenue to calculate net profit.
+
+38. What is retained earnings?
+Retained earnings are the portion of net income not distributed as dividends. They are reinvested in the business and recorded under equity in the balance sheet.
+
+39. What is book value?
+Book value is the value of an asset or company as recorded in the books, based on original cost minus depreciation. It may differ from market value.
+
+40. What is a contra account?
+A contra account is used to reduce the balance of a related account. Examples include accumulated depreciation (reducing asset value) and sales returns (reducing revenue).
+
+41. What is a provision?
+A provision is an amount set aside from profits to cover future expenses or liabilities that are probable but uncertain in timing or amount.
+
+42. What is a contingent liability?
+A contingent liability is a potential obligation that depends on the outcome of a future event. It is disclosed in the notes unless the likelihood is remote.
+
+43. What is capital?
+Capital refers to the financial resources invested in a business by its owners. It is used to fund operations and generate revenue.
+
+44. What is petty cash?
+Petty cash is a small fund of money kept on hand for minor or incidental business expenses. It is typically used for small purchases like office supplies.
+
+45. What is variance analysis?
+Variance analysis compares actual financial outcomes with budgeted figures. It helps identify differences and understand the reasons behind financial performance.
+
+46. What is financial reporting?
+Financial reporting involves preparing and presenting financial statements to stakeholders. It ensures transparency, accountability, and compliance with regulations.
+
+47. What is the difference between bookkeeping and accounting?
+Bookkeeping involves recording daily transactions, while accounting includes summarizing, analyzing, and interpreting financial data for decision-making.
+
+48. What is a deferred expense?
+A deferred expense is a cost that is paid but not yet incurred, such as insurance premiums paid in advance. It is recorded as an asset until expensed.
+
+49. What is a suspense account?
+A suspense account temporarily holds transactions when there is uncertainty about where to post them. Once clarified, the amounts are reclassified to appropriate accounts.
+
+50. What is an adjusting entry?
+Adjusting entries are made at the end of an accounting period to ensure revenues and expenses are recorded in the correct period. They include accrued expenses, depreciation, and prepaid adjustments.
+
+51. What is a closing entry?
+Closing entries are journal entries made at the end of an accounting period to transfer temporary account balances (like revenues and expenses) to permanent accounts (like retained earnings). This resets the temporary accounts for the next period.
+
+52. What is amortization?
+Amortization refers to gradually writing off the cost of an intangible asset over its useful life. It also applies to spreading out loan payments over time, including both principal and interest.
+
+53. What is a fixed asset?
+Fixed assets are long-term tangible resources like land, buildings, and machinery used in business operations. They are not intended for sale and are depreciated over their useful life.
+
+54. What are current assets?
+Current assets are short-term assets expected to be converted into cash within a year, such as cash, inventory, and accounts receivable. They support day-to-day operations.
+
+55. What are intangible assets?
+Intangible assets lack physical form and include trademarks, copyrights, patents, and goodwill. They provide long-term value and are usually amortized over time.
+
+56. What is a liability account?
+A liability account records obligations or debts the business owes. Examples include accounts payable, loans payable, and accrued expenses, all representing claims against assets.
+
+57. What is capital budgeting?
+Capital budgeting is the process of evaluating and selecting long-term investment projects, such as purchasing new equipment or expanding operations. It focuses on returns and risk.
+
+58. What is a dividend?
+A dividend is a portion of company profits distributed to shareholders, usually in cash or stock. It reflects the company’s profitability and policy on profit sharing.
+
+59. What is a bond?
+A bond is a debt instrument where a business borrows money from investors and agrees to repay it with interest after a fixed period. Bonds are used to raise long-term capital.
+
+60. What is inventory turnover?
+Inventory turnover measures how many times inventory is sold and replaced over a period. A high turnover means strong sales, while a low turnover indicates overstocking or weak sales.
+
+61. What is internal control?
+Internal control refers to procedures and policies designed to ensure accurate financial reporting, safeguard assets, and prevent fraud or errors within an organization.
+
+62. What is a reconciliation?
+Reconciliation involves comparing two sets of records (e.g., bank statement and company ledger) to ensure they match. It's essential for detecting discrepancies or errors.
+
+63. What is a write-off?
+A write-off is removing an asset or expense from the books because it has no remaining value, such as uncollectible accounts receivable or obsolete inventory.
+
+64. What is a write-down?
+A write-down reduces the book value of an asset when its market value falls below carrying value. It reflects a decline in asset utility or worth.
+
+65. What is an accrual?
+An accrual is revenue earned or expense incurred that hasn’t been received or paid yet. It ensures transactions are recorded in the correct accounting period.
+
+66. What is deferred revenue?
+Deferred revenue is income received before goods or services are delivered. It's recorded as a liability until the obligation is fulfilled.
+
+67. What is a budget?
+A budget is a financial plan that estimates income and expenses over a period. It helps businesses allocate resources and measure performance against targets.
+
+68. What is overhead?
+Overhead includes indirect costs needed to run a business, such as rent, utilities, and administrative salaries. These are not directly tied to production.
+
+69. What is a trial balance error?
+Trial balance errors occur when debits don’t equal credits, often due to posting mistakes, incorrect totals, or omission of entries.
+
+70. What is standard costing?
+Standard costing assigns predetermined costs to products, helping monitor variances between actual and expected expenses for better cost control.
+
+71. What is a credit note?
+A credit note is issued when goods are returned or overcharged, reducing the amount owed by the customer and adjusting the accounts receivable balance.
+
+72. What is a debit note?
+A debit note is issued to request a credit for returned goods or billing adjustments. It informs the seller about the amount being claimed back.
+
+73. What is a journal voucher?
+A journal voucher is a document supporting non-cash journal entries like adjustments, accruals, or error corrections. It ensures proper documentation of transactions.
+
+74. What is GAAP?
+GAAP (Generally Accepted Accounting Principles) is a set of standardized accounting rules and guidelines used to ensure consistency and transparency in financial reporting.
+
+75. What is IFRS?
+IFRS (International Financial Reporting Standards) is a global accounting framework issued by the IASB, used in many countries to standardize financial reporting.
+
+76. What is accounting software?
+Accounting software automates recording, tracking, and reporting financial transactions. Examples include QuickBooks, Tally, and SAP. It enhances accuracy and efficiency.
+
+77. What is audit trail?
+An audit trail is a chronological record of all transactions and adjustments in accounting. It provides transparency and supports auditing and compliance.
+
+78. What is financial analysis?
+Financial analysis involves evaluating financial statements to assess profitability, liquidity, solvency, and operational efficiency. It helps in investment and business decisions.
+
+79. What is book-keeping cycle?
+The bookkeeping cycle includes steps like identifying transactions, recording journal entries, posting to the ledger, trial balance preparation, and producing financial statements.
+
+80. What is a margin?
+Margin refers to the difference between sales revenue and cost of goods sold. It is a measure of profitability, commonly expressed as a percentage.
+
+81. What is a subsidiary ledger?
+A subsidiary ledger contains detailed entries for a specific control account in the general ledger, like accounts receivable or payable for individual customers or vendors.
+
+82. What is the role of an accountant?
+An accountant records financial transactions, prepares reports, ensures tax compliance, and provides financial insights for decision-making and strategic planning.
+
+83. What is accounting ethics?
+Accounting ethics refers to the principles of honesty, integrity, and transparency that guide accountants in preparing and presenting financial information.
+
+84. What is a fiscal policy?
+Fiscal policy is the government’s use of taxation and spending to influence the economy. It affects business planning, taxes, and investment decisions.
+
+85. What is a financial year vs calendar year?
+A financial year is a 12-month accounting period chosen by the business, which may or may not align with the calendar year (January–December).
+
+86. What is liquidity?
+Liquidity refers to how quickly an asset can be converted into cash. High liquidity means the company can easily meet short-term obligations.
+
+87. What is solvency?
+Solvency is a company’s ability to meet long-term obligations. It indicates financial stability and is assessed through ratios like debt to equity.
+
+88. What is a tax audit?
+A tax audit is a review of an individual or business's tax return by the tax authorities to ensure accuracy and compliance with laws.
+
+89. What is an expense ratio?
+The expense ratio measures the proportion of expenses to revenue. It helps evaluate cost efficiency and profitability in different business functions.
+
+90. What is return on investment (ROI)?
+ROI measures the gain or loss from an investment relative to its cost. It helps assess investment performance and decision-making.
+
+91. What is par value?
+Par value is the face value of a bond or stock, usually set when the security is issued. It is different from market value.
+
+92. What is a treasury stock?
+Treasury stock is previously issued stock that a company buys back from shareholders. It reduces equity and can be reissued or retired.
+
+93. What is an audit report?
+An audit report is the formal opinion issued by an auditor after examining a company’s financial records. It can be unqualified, qualified, adverse, or a disclaimer.
+
+94. What is an ERP system?
+An ERP (Enterprise Resource Planning) system integrates various business processes, including accounting, into one system for efficient data management and reporting.
+
+95. What is break-even analysis?
+Break-even analysis determines the sales volume at which total revenue equals total costs. It identifies the point of no profit, no loss.
+
+96. What is a cost center?
+A cost center is a department or unit within an organization that incurs expenses but does not directly generate revenue, like HR or IT.
+
+97. What is the conservatism principle?
+The conservatism principle suggests accountants should anticipate potential losses but not gains. It ensures that assets and income are not overstated.
+
+98. What is the consistency principle?
+The consistency principle states that once an accounting method is adopted, it should be used consistently over time for accurate comparison.
+
+99. What is the materiality concept?
+The materiality concept says only items that significantly affect financial decisions should be reported. It allows for practical, not theoretical, precision in records.
+
+100. What is zero-based budgeting?
+Zero-based budgeting requires all expenses to be justified from scratch each period. It’s useful for cost control and eliminating unnecessary expenditures.
+
+101. What is GL software?
+GL (General Ledger) software is an accounting tool designed to manage and track all financial transactions, automate journal entries, generate reports, and ensure compliance with accounting standards.
+
+102. What features does GL software offer?
+GL includes features like automated journal entries, real-time financial reporting, multi-user access, audit trails, bank reconciliation, and customizable dashboards.
+
+104. Is GL suitable for small and medium businesses?
+Absolutely. GL is scalable and customizable, making it suitable for startups, SMEs, and growing enterprises that need accurate financial tracking and reporting.
+
+105. How secure is financial data in GL?
+GL uses encryption, role-based access control, and regular backups to ensure your financial data is secure and compliant with data protection regulations.
+
+
+
