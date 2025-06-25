@@ -1,7 +1,10 @@
 langgraph
 langchain
+langchain_community
+langchain-google-genai
 langsmith
 python-dotenv
 langchain_groq
 langchain_tavily
 langchain_ollama
+ipykernel
