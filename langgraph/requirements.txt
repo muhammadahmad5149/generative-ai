@@ -8,3 +8,4 @@ langchain_groq
 langchain_tavily
 langchain_ollama
 ipykernel
+grandalf

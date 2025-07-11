@@ -1,0 +1,27 @@
+## [type: product]
+
+1. What is GL website?
+GL (General Ledger) software is an accounting tool designed to manage and track all financial transactions, automate journal entries, generate reports, and ensure compliance with accounting standards.
+
+2. What features does GL website offer?
+GL includes features like automated journal entries, real-time financial reporting, multi-user access, audit trails, bank reconciliation, and customizable dashboards.
+
+3. Is GL website suitable for small and medium businesses?
+Absolutely. GL website is scalable and customizable, making it suitable for startups, SMEs, and growing enterprises that need accurate financial tracking and reporting.
+
+4. How secure is financial data in GL website?
+GL website uses encryption, role-based access control, and regular backups to ensure your financial data is secure and compliant with data protection regulations.
+
+5. How do I login to the system?
+To login to the system, go to <a href="https://gl.vteamslabs.com/login" target="_blank">https://gl.vteamslabs.com/login</a>, enter your email and password, and click Login.
+
+6. How do I create a new account (sign up)?
+To sign up for a new account, go to <a href="https://gl.vteamslabs.com/signup" target="_blank">https://gl.vteamslabs.com/signup</a>
+
+Fill out the registration form with your name, email, and desired password.
+
+7. How can I reset my password if I forgot it?
+To reset your password, visit <a href="https://gl.vteamslabs.com/reset-password" target="_blank">https://gl.vteamslabs.com/reset-password</a>, enter your email, and follow the link sent to your inbox to create a new password.
+
+8. How do I logout from the system?
+To logout from the system, click on the logout button in the top right corner of the screen.

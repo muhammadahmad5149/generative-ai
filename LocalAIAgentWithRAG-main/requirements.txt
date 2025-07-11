@@ -25,3 +25,4 @@ pydantic
 
 # LangGraph
 langgraph
+langchain_groq
